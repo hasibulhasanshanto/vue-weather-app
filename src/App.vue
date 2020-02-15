@@ -105,7 +105,7 @@ main{
   display: block; 
   margin : 0 auto;
   padding: 15px;
-  min-width: 400px;
+  min-width: 270px;
   margin-bottom: 50px;
 
   color:#313131;
