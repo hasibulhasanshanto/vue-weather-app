@@ -104,8 +104,8 @@ main{
 .search-box .search-bar{
   display: block; 
   margin : 0 auto;
-  padding: 15px;
-  min-width: 270px;
+  padding: 15px; 
+  min-width: 275px; 
   margin-bottom: 50px;
 
   color:#313131;
